@@ -33,7 +33,7 @@ This Arduino sketch uses a DigiSpark board to brute-force 4 and 5 digit PINs by 
    - Search and install `DigiKeyboard`.
 2. **Upload the Script** ⬆️:
    - Connect DigiSpark to your computer via USB.
-   - Copy the script (`DigiKeyboard_BruteForce.ino`) to Arduino IDE.
+   - Copy the script (`main.ino`) to Arduino IDE.
    - Select board: `Tools > Board > Digispark (Default - 16.5mhz)`.
    - Upload the sketch.
 3. **Connect to Target** 🔗:
